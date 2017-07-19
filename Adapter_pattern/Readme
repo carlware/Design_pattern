@@ -1,0 +1,12 @@
+1)
+
+To test list using array/linkedlist:
+	gcc -Wall -Werror -I. ./list/*.c testList.c -o testList
+
+2)
+ To test stack using array/linkedlist
+	gcc -Wall -Werror -I. ./list/*.c ./stack/*.c testStack.c -o testStack
+
+3)
+ To test PQ using array:
+        gcc -Wall -Werror -I. ./list/*.c ./PriorityQueue/*.c pqClient.c -o pq
