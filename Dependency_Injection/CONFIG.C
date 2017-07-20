@@ -1,7 +1,3 @@
-/*  Module to load the image handlers array with imagehandlers.
-Version : 1.0
-Author : Team -C
-*/
 # include <stdio.h>
 # include <dlfcn.h>
 # include "handlers.h"

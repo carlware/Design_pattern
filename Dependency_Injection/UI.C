@@ -1,9 +1,3 @@
-
-/* This modules provides the implementataion of ui related functions 
-Version : 1.0
-Author : Team -C
-*/
-
 # include <stdio.h>
 # include "handlers.h"
 static char filename[100];

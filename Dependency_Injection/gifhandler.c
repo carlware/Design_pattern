@@ -1,8 +1,3 @@
-/* This module takes care of gif files 
-Version : 1.0
-Author : Team -C
-*/
-
 # include <string.h>
 # include "handlers.h"
 

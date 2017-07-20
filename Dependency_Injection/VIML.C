@@ -1,10 +1,3 @@
-                                                                                                                                                       
-/* This  Layer delegates tasks to appropriate handler
-Version : 1.0
-Author : Team -C
-Note : Try to remove redundant code from these functions.
-*/
-
 # include <stdio.h>
 # include <string.h>
 # include "handlers.h"
