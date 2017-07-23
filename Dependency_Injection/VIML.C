@@ -39,4 +39,5 @@ int vsavefile(char *newfilename ){
 		return FALSE;
 	}
 	ih=imagehandlers[handleno];
-	ih->savefile(newfilename);	
+	ih->savefile(newfilename);
+}
