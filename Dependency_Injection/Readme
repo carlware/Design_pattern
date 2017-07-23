@@ -3,7 +3,8 @@
 	/*
 		fPIC: option:
 	
-		Position Independent Code means that the generated machine code is not dependent on being located at a specific address in 	order to work.
+		Position Independent Code means that the generated machine code is
+		not dependent on being located at a specific address in order to work.
 		E.g. jumps would be generated as relative rather than absolute.
 	
 		Pseudo-assembly:
@@ -26,7 +27,8 @@
 
 	/*
 		-nostdlib
-			This flag skips linking with runtime code(_init, _fini) and standard library(libc)
+			This flag skips linking with runtime code(_init, _fini) and 
+			standard library(libc)
 		-lc
 			This flag links with C library exclusively
 	*/
