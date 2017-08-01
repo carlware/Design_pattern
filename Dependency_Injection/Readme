@@ -64,3 +64,6 @@
 		to load and leave the library in memory. Bind it when the application 
 		make calls to library symbols
 		*/
+
+Review:
+https://softwareengineering.stackexchange.com/questions/354298/image-processing-dependency-injection
