@@ -1,3 +1,6 @@
+Code review:
+https://softwareengineering.stackexchange.com/questions/354298/image-processing-dependency-injection
+
 > gcc -fPIC gifhandler.c
 > gcc -fPIC tiffhandler.c
 > gcc -fPIC jpghandler.c
@@ -65,5 +68,3 @@
 		make calls to library symbols
 		*/
 
-Review:
-https://softwareengineering.stackexchange.com/questions/354298/image-processing-dependency-injection
