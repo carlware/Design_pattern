@@ -16,5 +16,3 @@ Event loop, Observer pattern - Python
 4)
 Non-blocking IO pattern - Implemented using Python
 
-5)
-Actor model - pseudo code(Java)
