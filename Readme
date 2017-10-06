@@ -1,6 +1,6 @@
 1)
 Service locator pattern
-> Implemented in C
+  > Implemented in C - OOP paradigm
 
 2)
 Callback registrations using Python decorators
@@ -10,4 +10,8 @@ Event loop, Observer pattern - Python
 
 4)
 Non-blocking IO pattern - Implemented using Python
+
+5) 
+Singleton pattern
+http://blog.thepythontutor.com/2017/08/singleton-design-patterns-in-python.html
 
