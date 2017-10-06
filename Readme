@@ -7,11 +7,11 @@ Callback registrations using Python decorators
 
 3)
 Event loop, Observer pattern - Python
-
+	
 4)
 Non-blocking IO pattern - Implemented using Python
 
 5) 
 Singleton pattern
-http://blog.thepythontutor.com/2017/08/singleton-design-patterns-in-python.html
+
 
