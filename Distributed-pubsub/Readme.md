@@ -43,3 +43,10 @@ Solution:
 
 
 
+
+Comments:
+========
+
+If there is an existing C implementation running in production, then my guess is, it's design should be similar to above. We just need to port C implementation to GoLang, because programming paradigm is similar for C & GoLang
+
+
