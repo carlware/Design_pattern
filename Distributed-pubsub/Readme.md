@@ -34,13 +34,16 @@ Solution:
 
 1) Distributed transaction log needs atleast two tables:
      > table storing messages(blob)
+
      > connection table of publishers & subscribers - number of connections
 
-2) Notify daemon invocation is deployment logic 
+2) Notify daemon invocation is deployment logic :
+
    Application layer within accept() socket should be http based application using DB api
 
 3) DB api is the crucial component amongst these components. DB api uses mmap() share some data structures, across executables(publishers & subscribers)
-   more about mmap() - https://godoc.org/github.com/edsrzf/mmap-go
+   
+	More about mmap() - https://godoc.org/github.com/edsrzf/mmap-go
 
 
 4) DB api will be shared library, but not(statically linked)
